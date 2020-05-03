@@ -92,7 +92,7 @@ function generateProjectsPage(){
 			</div>
 
 			<div class="links">
-				<a href="https://sreekanthreddyseelam.github.io/The-Red-Hot-Chili-Peppers-Quiz-App/" target="_blank">
+				<a href="https://github.com/sreekanthreddyseelam/The-Red-Hot-Chili-Peppers-Quiz-App" target="_blank">
 					<button>GitHub Repo</button>
 				</a>
 				<a href="https://sreekanthreddyseelam.github.io/The-Red-Hot-Chili-Peppers-Quiz-App/" target="_blank">
@@ -132,7 +132,7 @@ function generateProjectsPage(){
 			</div>
 
 			<div class="links">
-				<a href="https://sreekanthreddyseelam.github.io/Date-APP/" target="_blank">
+				<a href="https://github.com/sreekanthreddyseelam/Date-APP" target="_blank">
 					<button>GitHub Repo</button>
 				</a>
 				<a href="https://sreekanthreddyseelam.github.io/Date-APP/" target="_blank">
