@@ -15,10 +15,10 @@ function generateHomePage(){
 					<div class="hero-text">
 						<h2>SreeKanth Reddy Seelam</h2>
 
-						<h3>Web Developer</h3>
+						<h3>Web Application Developer</h3>
 						<br>
 
-						<h4>I am currently based in the Germany Leipzig area.</h4>
+						<h4>I am currently based in the Germany Mannheim area.</h4>
 						<h5>I am a lover of music and all things code!</h5>
 
 						<div class="cta-btns">
@@ -42,7 +42,7 @@ function generateAboutMePage (){
 					<h1>About</h1>
 				</header>
 
-				<h2>I am an aspiring Junior Full Stack Web Developer currently based in the Germany Leipzig. area.</h2>
+				<h2>I am an aspiring Junior Full Stack Web Developer currently based in the Germany Mannheim. area.</h2>
 				<br>
 
 				<h3>I specialize in designing and building interactive user interfaces that are conducive to a stimulating and engaging user experience.</h3>
